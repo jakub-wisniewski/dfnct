@@ -35,10 +35,21 @@
   color:black;
 }
 
-.header-title a {
-  font-size: 2rem;
+// .header-title a {
+//   font-size: 2rem;
+//   text-decoration: none;
+//   color: $body-color;
+// }
+
+.header-title {
+  text-align: center;
+}
+
+.header-title .logo {
+  font-size: 3rem;
   text-decoration: none;
   color: $body-color;
+  font-weight: 900;
 }
 
 .header-subtitle {
