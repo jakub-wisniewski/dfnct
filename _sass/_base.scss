@@ -14,7 +14,7 @@ body {
 @media (max-width: $elements-responsive-width) {
   body {
     font-size: 14px;
-    line-height: 1.5rem;
+    line-height: 2.0rem;
   }
   body h1 {
     font-size: 1.5rem;
@@ -55,7 +55,7 @@ blockquote {
   padding: 0px 15px;
   border-left: 0.25em solid $extra-light-gray-color;
   color: $light-gray-color;
-  line-height: 1.5;
+  line-height: 2.0;
 }
 
 hr {
