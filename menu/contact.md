@@ -8,5 +8,5 @@ permalink: /contact
 
 Poland, Poznań 60-521 <br>
 Słowackiego Street 55/1. <br>
-<i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:jakubwisniewski@defuncthorizon.com" target="_blank">jakubwisniewski@defuncthorizon.com</a>
+<a href="mailto:jakubwisniewski@defuncthorizon.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i> jakubwisniewski@defuncthorizon.com</a>
 
