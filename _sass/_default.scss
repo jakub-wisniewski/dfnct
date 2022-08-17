@@ -5,7 +5,7 @@
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 500px;
 }
 
 .content-container {
@@ -27,6 +27,7 @@
 .header {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  margin-top: 10em;
   margin-bottom: 4rem;
   font-family: $sans-serif-font-family;
 }
@@ -50,6 +51,8 @@
   text-decoration: none;
   color: $body-color;
   font-weight: 900;
+  color: $font-color-dark;
+
 }
 
 .header-subtitle {
