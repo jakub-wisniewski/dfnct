@@ -16,8 +16,8 @@ social:
 # - {icon: 'github',     link: 'https://www.github.com/lenpaul'}
 - {icon: 'twitter',    link: 'https://twitter.com/defuncthorizon'}
 - {icon: 'youtube',    link: 'https://www.youtube.com/channel/UCZW0Z-o_kr6G5C7qTBGNGVA'}
-- {icon: 'reddit',    link: 'https://twitter.com/defuncthorizon'}
-- {icon: 'instagram',    link: 'https://twitter.com/defunct_horizon'}
+- {icon: 'reddit',    link: 'https://www.reddit.com/user/defuncthorizon'}
+- {icon: 'instagram',    link: 'https://www.instagram.com/defunct_horizon'}
 - {icon: 'envelope',   link: 'mailto:jakubwisniewski@defuncthorizon.com'}
 # - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
