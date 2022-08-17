@@ -6,6 +6,10 @@
   padding-right: 10px;
 }
 
+.social-icons .fa {
+  font-size: 2em;
+}
+
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
   -o-transition: $transition;
