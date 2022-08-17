@@ -8,7 +8,7 @@ body {
   // color: $body-color;
   color: white;
   line-height: 1.75rem;
-  background-color:#0d1117;
+  background-color: $code-background-color;
 }
 
 @media (max-width: $elements-responsive-width) {
