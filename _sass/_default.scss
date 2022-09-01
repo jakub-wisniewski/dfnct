@@ -33,7 +33,7 @@
 }
 
 .header a:hover {
-  color:black;
+  color: $link-color;
 }
 
 // .header-title a {
@@ -117,7 +117,7 @@
 }
 
 .footer a:hover {
-  color: $dark-gray-color;
+  color: $link-color;
 }
 
 .footer-description {
