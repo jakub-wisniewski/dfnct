@@ -22,7 +22,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 url: "https://defuncthorizon.com"
 title:		           'Defunct Horizon'
-description:	       'Game developer from Poznań, Poland.'
+description:	       'Game studio from Poznań, Poland.'
 author:              'Jakub Wiśniewski'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
