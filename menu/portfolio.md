@@ -17,7 +17,7 @@ Tools: Blender + Quixel Mixer
 Tools: Blender + Quixel Mixer
 
 ![8.png]({{site.baseurl}}/images/8.png)
-The original character made from concept to modeling, texturing and animation. 
+The original character that I've made from concept to modeling, texturing and animation.
 <br>
 Tools: Blender + Quixel Mixer. Rendered in Unity.
 
