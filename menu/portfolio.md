@@ -4,8 +4,7 @@ title: Portfolio
 permalink: /portfolio
 ---
 
-Game-ready assets that I've made for my multiplayer game. <br>
-The title has not yet been announced.
+Game-ready assets that I've made for my multiplayer game (the title has not yet been announced). <br>
 
 ![1.png]({{site.baseurl}}/images/1.png)
 Porch House. <br>
