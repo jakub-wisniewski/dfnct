@@ -4,13 +4,11 @@ title: Portfolio
 permalink: /portfolio
 ---
 
-I am the creator of the Cabbagers game. 
+I am the creator of the Cabbagers game:
 
-Trailer here:
+<iframe width="500" height="300" src="https://www.youtube.com/embed/kkTN8r-qeio" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kkTN8r-qeio" frameborder="0" allowfullscreen></iframe>
-
-Here are some of asset images from the game: <br>
+Here are some of the asset images from the game: <br>
 
 ![1.png]({{site.baseurl}}/images/1.png)
 Porch House. <br>
