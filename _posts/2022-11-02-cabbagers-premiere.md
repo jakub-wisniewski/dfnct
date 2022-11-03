@@ -3,8 +3,6 @@ published: true
 title: Cabbagers - World Premiere
 ---
 
-Good day!
-
 Defunct Horizon studio presents it's debut game today - Cabbagers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkTN8r-qeio" frameborder="0" allowfullscreen></iframe>
