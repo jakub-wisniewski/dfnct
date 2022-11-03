@@ -4,7 +4,13 @@ title: Portfolio
 permalink: /portfolio
 ---
 
-Game-ready assets that I've made for my multiplayer game (the title has not yet been announced). <br>
+I am the creator of the Cabbagers game. 
+
+Trailer here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kkTN8r-qeio" frameborder="0" allowfullscreen></iframe>
+
+Here are asset images from the game: <br>
 
 ![1.png]({{site.baseurl}}/images/1.png)
 Porch House. <br>
