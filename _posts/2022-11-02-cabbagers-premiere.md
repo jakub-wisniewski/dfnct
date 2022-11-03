@@ -1,9 +1,6 @@
 ---
 published: true
 title: Cabbagers - World Premiere
-image:
-  feature: cabbagers.jpg
-  teaser: cabbagers.jpg
 ---
 
 Good day!
