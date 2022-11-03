@@ -7,7 +7,7 @@ Defunct Horizon studio presents it's debut game today - Cabbagers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkTN8r-qeio" frameborder="0" allowfullscreen></iframe>
 
-Cabbagers is a multiplayer combat game playable through Steam with a crazy humor.
+Cabbagers is a multiplayer combat game playable through Steam.
 
 Coming soon! 🙃
 
