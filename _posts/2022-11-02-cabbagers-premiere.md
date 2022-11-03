@@ -11,7 +11,6 @@ Cabbagers is a multiplayer combat game playable through Steam.
 
 Coming soon! 🙃
 
-
 <a href="https://cabbagers.com">cabbagers.com</a>
 
 
